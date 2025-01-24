@@ -1,7 +1,7 @@
-import { FC } from "react"
 import { CssBaseline } from "@material-ui/core"
+import { FC, PropsWithChildren } from "react"
 
-const CssBaselined: FC = ({ children }) => (
+const CssBaselined: FC<PropsWithChildren> = ({ children }) => (
     <>
         <CssBaseline />
         {children}
