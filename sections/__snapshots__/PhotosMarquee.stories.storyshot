@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`Storyshots Sections/Photos Marquee Basic 1`] = `
-<div
-  className="sectionsphotos-marquee-basic-muicontainer-root-1 sectionsphotos-marquee-basic-makestyles-root-1 sectionsphotos-marquee-basic-muicontainer-disablegutters-1 sectionsphotos-marquee-basic-muicontainer-maxwidthxl-1"
-/>
-`;
